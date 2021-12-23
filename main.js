@@ -2,7 +2,7 @@ img="";
 status="";
 object=[];
 function preload(){
-img=loadImage('traffic.jfif')
+img=loadImage('Bedroom_img.jfif')
 }
 function setup(){
 canvas=createCanvas(640,420);
