@@ -14,3 +14,10 @@ body{
     background-size:cover;
     background-position:center
 }
+a{
+font-size: 20px;
+width: 400px;
+border-radius: 30px;
+background-color:white;
+color:tomato;
+}
